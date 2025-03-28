@@ -1,3 +1,17 @@
+## Table of contents
+
+-   [Story](#story)
+-   [Technologies Implemented](#technologies-implemented)
+    -   [Step 1](#step-1)
+    -   [Step 2](#step-2)
+    -   [Step 3](#step-3)
+    -   [Step 4](#step-4)
+    -   [Step 5](#step-5)
+    -   [Step 6](#step-6)
+    -   [Last step](#last-step)
+
+---
+
 # Story
 
 XYZ company is a fast-growing company in Eastern Australia with more than 2 million customers globally. The company deals with selling and buying of food items, which are basically operated from the headquarters. The company is intending to open a branch near the local town. Thus, the company requires young IT graduates to design the network for the branch. The network is intended to operate separately from the HQ network. Being a small network, the company has the following requirements during implementation. Meaning that the Branch Network will be in a different autonomous system(AS) from the HQ network
