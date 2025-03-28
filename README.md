@@ -81,24 +81,24 @@ Configure DHCP to automatically assign IP to end-host
                 <img
                     src="/assets/step5_6a.png"
                     alt="step 5 (5.6.a)"
-                    width="500"
-                    height="400"
+                    width="200"
+                    height="200"
                 />
             </td>
             <td>
                 <img
                     src="/assets/step5_6b.png"
                     alt="step 5 (5.6.a)"
-                    width="500"
-                    height="400"
+                    width="200"
+                    height="200"
                 />
             </td>
             <td>
                 <img
                     src="/assets/step5_6c.png"
                     alt="step 5 (5.6.a)"
-                    width="500"
-                    height="400"
+                    width="200"
+                    height="200"
                 />
             </td>
         </tr>
