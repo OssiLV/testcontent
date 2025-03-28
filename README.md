@@ -88,7 +88,7 @@ Configure DHCP to automatically assign IP to end-host
             <td>
                 <img
                     src="/assets/step5_6b.png"
-                    alt="step 5 (5.6.a)"
+                    alt="step 5 (5.6.b)"
                     width="200"
                     height="200"
                 />
@@ -96,20 +96,39 @@ Configure DHCP to automatically assign IP to end-host
             <td>
                 <img
                     src="/assets/step5_6c.png"
-                    alt="step 5 (5.6.a)"
+                    alt="step 5 (5.6.c)"
                     width="200"
                     height="200"
                 />
             </td>
         </tr>
     </table>
-
-                -   Admin/IT Department
-                    ![step 5 (5.6.a)](assets/step5_6a.png)
-                -   Finance
-                    ![step 5 (5.6.b)](assets/step5_6b.png)
-                -   Reception
-                    ![step 5 (5.6.c)](assets/step5_6c.png)
-
 7.  Changing the Internet into DHCP option on each device
     ![step 5 (5.7)](assets/step5_7.png)
+
+## Step 6
+
+Configuring Wireless network device
+
+![step 5 (5.6.1)](assets/step6_1.png)
+**Adding Phone and Laptop to each VLAN**
+
+![step 5 (5.6.2)](assets/step6_2.png)
+**After that we configure SSID to their respective VLAN and turn DHCP on each device so they will get assigned automatically**
+
+![step 5 (5.6.3)](assets/step6_3.png)
+**We first remove the old card and insert WPC300N to the laptop and turn the laptop back on**
+
+![step 5 (5.6.43)](assets/step6_4.png)
+**Same settings as the phone and turn on DHCP**
+
+![step 5 (5.6.5)](assets/step6_5.png)
+**Or we can use PC wireless option => Replace the old card into WPC300 Wifi card in order to use this option**
+
+# Last step
+
+After this we will test the connectivity between each department
+
+![last step](assets/final.png)
+**The first packet always timed out because of the ARP protocol
+-> Every ping now is successfully works**
